@@ -1,51 +1,51 @@
-# ⚡ SYSTEM BOOTING: GAURANG VERMA ⚡
+# ⚡ SYSTEM_BOOT: GAURANG VERMA ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Class+8+Innovator;Full-Stack+Developer;Hackathon+Winner;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Class+8+Innovator;Full-Stack+Aspirant;Hackathon+Winner;AI+Climate+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I am a young innovator committed to closing the gap between client-side and server-side development. Currently a student at **Ewing Christian Public School**, I focus on building scalable, high-performance applications that solve real-world problems.
+## 🛠️ Technical Skillset
 
-- 🔭 **Current Project:** Enhancing **Sustainify AI** with predictive climate models.
-- 🏆 **Major Win:** 'TechnoNxt' Hackathon Winner.
-- ⚡ **Fun Fact:** I once wrote **7,000+ lines of code** for a single project repository!
-- 🧠 **Learning:** Mastering Node.js and advanced Backend Architecture.
+### 🌐 Frontend Engineering
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### ⚙️ Backend & Runtime
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 🛠️ Tech Stack & Skills
-
-| Category | Skills |
-| :--- | :--- |
-| **Frontend** | `HTML5` `CSS3 (Flexbox/Grid)` `JavaScript (ES6+)` |
-| **Backend** | `PHP` `Node.js` `Express.js` |
-| **Database** | `SQL (PostgreSQL/MySQL)` `Optimization` `CRUD` |
-| **Tools/DevOps** | `Git` `GitHub` `Vercel` `Netlify` |
+### 💾 Data Management
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- **[Sustainify AI](https://dev-gaurang.vercel.app/)** - AI-driven climate dashboard using Prophet & ARIMA models.
-- **Cash Flow Crew** - Interactive financial dashboard for ROI and real estate analysis.
-- **Sustainable City System** - Hackathon-winning prototype for urban planning.
+## 🚀 Impact Projects
+
+* **🌍 [Sustainify AI](https://dev-gaurang.vercel.app/)** - AI-driven climate dashboard using **Prophet/ARIMA**.
+* **💰 Cash Flow Crew** - Financial dashboard for real estate ROI.
+* **🏆 TechnoNxt Winner** - 7,000+ LoC sustainable city prototype.
 
 ---
 
-### 📬 Transmit Message
-- **Email:** [vgaurang583@gmail.com](mailto:vgaurang583@gmail.com)
-- **Portfolio:** [gaurang.dev](https://dev-gaurang.vercel.app/)
+## 📊 Transmission Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Gaurang's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
+---
+
+## 📬 Direct Transmission Channels
+[![Email](https://img.shields.io/badge/Email-vgaurang583%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:vgaurang583@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gaurang.dev-00F2FF?style=flat-square&logo=vercel)](https://dev-gaurang.vercel.app/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" />
+  <code>System Copyright © 2025 | Code Deployed and Running.</code>
 </p>
