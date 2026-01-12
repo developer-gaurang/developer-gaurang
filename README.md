@@ -1,8 +1,19 @@
-# ⚡ SYSTEM_BOOT: GAURANG VERMA ⚡
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=200&section=header&text=GAURANG%20VERMA&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Class+8+Innovator;Full-Stack+Aspirant;Hackathon+Winner;AI+Climate+Tech+Explorer" alt="Typing SVG" />
 </p>
+
+---
+
+## 👨‍💻 Initializing Profile...
+I am a young innovator committed to closing the gap between client-side and server-side development. Currently a student at **Ewing Christian Public School**, I focus on building scalable, high-performance applications.
+
+- 🏆 **Achievement:** 'TechnoNxt' Hackathon Winner.
+- ⚡ **LoC Record:** 7,000+ lines of code in a single project.
+- 🧠 **Focus:** Bridging raw environmental data with AI governance via Sustainify AI.
 
 ---
 
@@ -19,21 +30,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🚀 Impact Projects
-
-* **🌍 [Sustainify AI](https://dev-gaurang.vercel.app/)** - AI-driven climate dashboard using **Prophet/ARIMA**.
-* **💰 Cash Flow Crew** - Financial dashboard for real estate ROI.
-* **🏆 TechnoNxt Winner** - 7,000+ LoC sustainable city prototype.
-
----
-
 ## 📊 Transmission Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Gaurang's Stats" height="180" />
@@ -42,10 +38,17 @@
 
 ---
 
+## 🚀 Key Projects
+* **🌍 [Sustainify AI](https://dev-gaurang.vercel.app/)** - AI climate dashboard using Prophet & ARIMA.
+* **💰 Cash Flow Crew** - Real estate ROI analyzer with Streamlit.
+* **🏗️ Sustainable City** - Hackathon-winning urban planning system.
+
+---
+
 ## 📬 Direct Transmission Channels
 [![Email](https://img.shields.io/badge/Email-vgaurang583%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:vgaurang583@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gaurang.dev-00F2FF?style=flat-square&logo=vercel)](https://dev-gaurang.vercel.app/)
 
 <p align="center">
-  <code>System Copyright © 2025 | Code Deployed and Running.</code>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" />
 </p>
